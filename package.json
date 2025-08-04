@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "batch-barcode.js",
   "scripts": {
-    "start": "node batch-barcode.js"
+    "start": "node batch-barcode.js",
+    "start1": "node batch-barcode.js",
   },
   "dependencies": {
     "bwip-js": "^3.0.0",
